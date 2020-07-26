@@ -12,10 +12,6 @@
 	background-color:rgba(245, 231, 237, 0.837);
 }
 
-#calculator{
-	background: center;
-}
-
 input[type="button"]{
 	border-radius: 10px;
 	background-color:black;
